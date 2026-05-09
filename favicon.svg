@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0a0c10"/>
+  <g transform="translate(32,32)" fill="none" stroke="#f97316" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Gear outer ring -->
+    <circle cx="0" cy="0" r="10" stroke="#f97316" stroke-width="3.5"/>
+    <!-- Gear teeth -->
+    <line x1="0" y1="-18" x2="0" y2="-13"/>
+    <line x1="0" y1="13" x2="0" y2="18"/>
+    <line x1="-18" y1="0" x2="-13" y2="0"/>
+    <line x1="13" y1="0" x2="18" y2="0"/>
+    <line x1="-12.7" y1="-12.7" x2="-9.2" y2="-9.2"/>
+    <line x1="9.2" y1="9.2" x2="12.7" y2="12.7"/>
+    <line x1="12.7" y1="-12.7" x2="9.2" y2="-9.2"/>
+    <line x1="-9.2" y1="9.2" x2="-12.7" y2="12.7"/>
+    <!-- Center hole -->
+    <circle cx="0" cy="0" r="4" stroke="#f97316" stroke-width="3"/>
+  </g>
+</svg>
